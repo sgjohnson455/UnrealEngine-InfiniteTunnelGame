@@ -4,9 +4,7 @@
 
 This project began as a simple tunnel game tutorial and has been expanded with new gameplay mechanics, visuals, and challenges.  
 
-<p align="center">
-  <img src="ReadMeAssets/projectdemo.gif" alt="Project Demo" width="600"/>
-</p>
+![Project Demo](ReadMeAssets/projectdemo.gif)
 ---
 
 ## Features
